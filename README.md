@@ -5,7 +5,7 @@ Chạy các lệnh sau để cập nhật repo và khắc phục lỗi:
 
 ```sh
 chmod +x update_repo.sh
-./update_repo.sh
+./update.sh
 ```
 
 📌 **Lưu ý:**  
