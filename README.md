@@ -2,7 +2,12 @@
 
 ### 🔧 Cách Chạy Script Fix Repo  
 Chạy các lệnh sau để cập nhật repo và khắc phục lỗi:  
-
+#  B1:
+```sh
+git clone https://github.com/hoangturong/fix_centos.git
+cd fix_centos
+```
+# B2:
 ```sh
 chmod +x update.sh
 ./update.sh
